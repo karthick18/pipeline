@@ -3,7 +3,7 @@ module github.com/karthick18/pipeline
 go 1.17
 
 require (
-	github.com/karthick18/go-graph v1.0.0
+	github.com/karthick18/graph v1.0.1
 	github.com/stretchr/testify v1.7.0
 )
 

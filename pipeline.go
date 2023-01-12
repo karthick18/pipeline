@@ -1,7 +1,7 @@
 package pipeline
 
 import (
-	"github.com/karthick18/go-graph/graph"
+	"github.com/karthick18/graph"
 )
 
 type PipelineConfig struct {
