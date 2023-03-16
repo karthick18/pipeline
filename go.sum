@@ -1,7 +1,7 @@
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/karthick18/graph v1.0.1 h1:dq/FAs+PqRFanx0hrQMrC1gYXxQ8LYRQqhbBpRPL6y0=
-github.com/karthick18/graph v1.0.1/go.mod h1:uiME3V/5yOCtZpTr2L+9YFlY9BGXsCKZ1Ea84H7XDFY=
+github.com/karthick18/graph v1.0.2 h1:l3FujqbTOhE8wQ2a5X27crIQTM4B3y6EXZiMiO4/CCE=
+github.com/karthick18/graph v1.0.2/go.mod h1:uiME3V/5yOCtZpTr2L+9YFlY9BGXsCKZ1Ea84H7XDFY=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

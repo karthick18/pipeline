@@ -1,7 +1,7 @@
 all: test
 
 test: fmt vet
-	go test -v ./...
+	go test -v
 
 fmt:
 	go fmt ./...
